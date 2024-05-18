@@ -484,7 +484,6 @@ The project was done with Rstudio
 
 <img src="print.png" alt="page-home">
 
-<img src="print2.png" alt="page-home">
 🔧 Tecnologias utilizadas:
 ------------------
 
